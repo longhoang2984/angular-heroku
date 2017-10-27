@@ -3,7 +3,6 @@
   "version": "2.3.0",
   "license": "MIT",
   "scripts": {
-    "ng": "ng",
     "start": "ng serve",
     "build": "ng build --prod",
     "deploy": "ng build --prod --base-href / && angular-cli-ghpages",
