@@ -9,7 +9,7 @@ export const AppConfig: IAppConfig = {
     heroes: 'heroes'
   },
   endpoints: {
-    heroes: 'https://nodejs-example-app.herokuapp.com/heroes'
+    heroes: 'https://beecow-test.herokuapp.com/'
   },
   votesLimit: 3,
   topHeroesLimit: 4,
